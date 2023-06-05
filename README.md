@@ -1,5 +1,5 @@
 ## Hi there! 😀
-### My name is Moacir and my nickname is "Moa"!
+### My nickname is "Moa"!
 
 <div>
 <a href="https://www.linkedin.com/in/moaramos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
