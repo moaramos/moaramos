@@ -28,3 +28,4 @@
   
 <br>
 
+![Snake animation](https://github.com/moaramos/moaramos/blob/output/github-contribution-grid-snake.svg)
