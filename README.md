@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hi there! 😀
+### My name is Moacir and my nickname is "Moa"!
 
-<!--
-**moaramos/moaramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<a href="https://www.linkedin.com/in/moaramos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/moaramos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/moaramos" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+(Python | MySql | Linux | Javascript | HTML | CSS) 🚀
+
+- 🔭 Data Analyst at <a href="https://www.linkedin.com/in/moaramos" target="_blank">Assesso</a>
+- 🎓 Computer Engineering Graduated 
+- 🌱 Learning python
+- 💖 Passionate about data
+- 🏆 Love a good challenge
+
+<br>
+<div>
+<a href="https://github.com/moaramos">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moaramos&layout=compact&langs_count=7&theme=gotham"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=moaramos&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+</div>
+  
+<br>
+![Snake animation](https://github.com/moaramos/blob/output/github-contribution-grid-snake.svg)
