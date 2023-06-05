@@ -13,7 +13,8 @@
 
 - 🔭 Data Analyst at <a href="https://www.assesso.com.br" target="_blank">Assesso</a>
 - 🎓 Computer Engineering Graduated 
-- 🌱 Learning python
+- 🎓 MBA in Digital Business at USP
+- 🌱 Learning Python
 - 💖 Passionate about data
 - 🏆 Love a good challenge
 
