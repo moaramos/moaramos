@@ -17,6 +17,8 @@
 - 💖 Passionate about data
 - 🏆 Love a good challenge
 
+##
+
 <br>
 <div>
 <a href="https://github.com/moaramos">
@@ -25,4 +27,4 @@
 </div>
   
 <br>
-![Snake animation](https://github.com/moaramos/blob/output/github-contribution-grid-snake.svg)
+
