@@ -11,7 +11,7 @@
 
 (Python | MySql | Linux | Javascript | HTML | CSS) 🚀
 
-- 🔭 Data Analyst at <a href="https://www.linkedin.com/in/moaramos" target="_blank">Assesso</a>
+- 🔭 Data Analyst at <a href="https://www.assesso.com.br" target="_blank">Assesso</a>
 - 🎓 Computer Engineering Graduated 
 - 🌱 Learning python
 - 💖 Passionate about data
