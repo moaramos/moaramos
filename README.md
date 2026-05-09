@@ -17,7 +17,7 @@ Eu sou o Moa.
 - 🎓 MBA em Data Science e Analytics (USP)
 - 🌱 Aprendendo Power BI, SQL e Python todos os dias
 - 💖 Apaixonado por dados
-- 🏆 Amo um bom desafio
+- 🏆 Amo um desafio
 - 🤘🏻 Sempre ouvindo um bom rock
 
 ##
