@@ -1,4 +1,4 @@
-## Olá!  <img src="bats-black.gif" width="40"/>
+## Olá!  <img src="bats-brown.gif" width="40"/>
 Eu sou o Moa.
 
 <div>
