@@ -1,4 +1,4 @@
-## Olá! 😊
+## Olá!
 ### Eu sou o Moa! 🦇
 
 <div>
@@ -8,24 +8,15 @@
 
 <br>
 
-(Power BI | SQL | Python | MySql | Linux) 🚀
+(DataBricks | Power BI | SQL | Python | Linux | GIT) 🚀
 
 - 👨‍💻 Analytics Engineer Pleno na <a href="https://www.cacaushow.com.br/" target="_blank">Cacau Show 🤎</a>
 - 🎓 Engenharia da Computação (Graduação)
 - 🎓 MBA em Data Science e Analytics (USP)
-- 🌱 Aprendendo Python e SQL todos os dias
+- 🌱 Aprendendo Power BI, SQL e Python todos os dias
 - 💖 Apaixonado por dados
 - 🏆 Amo um bom desafio
 
 ##
-
-<br>
-<div>
-<a href="https://github.com/moaramos">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moaramos&layout=compact&langs_count=7&theme=discord_old_blurple"/>
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=moaramos&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-</div>
-  
 <br>
 
-![Snake animation](https://github.com/moaramos/moaramos/blob/output/github-contribution-grid-snake.svg)
