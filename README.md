@@ -1,5 +1,5 @@
-## Olá!
-Eu sou o Moa. 🦇
+## Olá!  <img src="bats-black.gif" width="40"/>
+Eu sou o Moa.
 
 <div>
 <a href="https://www.linkedin.com/in/moaramos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -7,6 +7,8 @@ Eu sou o Moa. 🦇
 </div>
 
 <br>
+
+
 
 (DataBricks | Power BI | SQL | Python | GIT | Linux) 🚀
 
