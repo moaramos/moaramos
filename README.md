@@ -16,7 +16,7 @@ Eu sou o Moa! 🦇
 - 🌱 Aprendendo Power BI, SQL e Python todos os dias
 - 💖 Apaixonado por dados
 - 🏆 Amo um bom desafio
-- 🤘 Sempre ouvindo um bom rock
+- 🤘🏻 Sempre ouvindo um bom rock
 
 ##
 <br>
