@@ -22,7 +22,6 @@ Eu sou o Moa.
 
 ##
 <br>
-
 <!-- Este bloco carrega o jogo que criamos na automação -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moaramos/moaramos/output/pacman-contribution-graph-dark.svg">
