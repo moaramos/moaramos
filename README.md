@@ -23,4 +23,4 @@ Eu sou o Moa.
 ##
 <br>
 
-![snake gif](https://raw.githubusercontent.com/moaramos/moaramos/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/moaramos/moaramos/blob/output/github-contribution-grid-snake.svg?raw=true)
