@@ -12,11 +12,11 @@ Eu sou o Moa.
 - 👨‍💻 Analytics Engineer Pleno na <a href="https://www.cacaushow.com.br/">Cacau Show 🤎</a>
 - 🎓 Engenharia da Computação (Graduação)
 - 🎓 MBA em Data Science e Analytics (USP)
-- 💖 Apaixonado por dados
-- 🏆 Amo um desafio
-- 🤘🏻 Sempre ouvindo um bom rock
+- ❤️‍🔥 Apaixonado por dados
+- 🧩 Amo um desafio
+- 🤘🏻 Sempre ouvindo um rock
 
-### 💀 O que eu faço
+### 🦇 O que eu faço
 
 - **Pipelines no Databricks**: ingestão de ERPs (Protheus, SAP) nas camadas bronze → silver → gold, com cargas incrementais e histórico
 - **Modelagem e governança**: Materialized Views documentadas, Unity Catalog e segurança por linha (RLS)
